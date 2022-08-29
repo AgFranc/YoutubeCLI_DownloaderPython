@@ -26,8 +26,14 @@ Necesitas haber instalado python 3.9:  https://www.python.org/
 
 ## Demo
 Prueba en Linux Debian
-![](primero.gif)
 
+![](primero.gif)
+![](segundo.gif)
+
+Prueba en Windows
+
+![](primeroW.gif)
+![](segundoW.gif)
 
 ## Capturas de pantalla
 
