@@ -25,8 +25,8 @@ Necesitas haber instalado python 3.9:  https://www.python.org/
 
 
 ## Demo
-
-Insert gif or link to demo
+Prueba en Linux Debian
+![](primero.gif)
 
 
 ## Capturas de pantalla
