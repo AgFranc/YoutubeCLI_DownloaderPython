@@ -37,7 +37,7 @@ Prueba en Windows
 
 ## Capturas de pantalla
  
-![My Image](schshot.jpg)
+![My Image](schshot.png)
 
 ## 🚀 Acerca de mi
 Soy un futuro backend developer
