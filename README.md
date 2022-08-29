@@ -37,7 +37,7 @@ Prueba en Windows
 
 ## Capturas de pantalla
 
-![alt text](schshot.jpg)
+![alt text](schshot.png)
 
 
 ## 🚀 Acerca de mi
